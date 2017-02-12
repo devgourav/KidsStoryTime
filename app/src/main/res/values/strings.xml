@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KidsStoryTime</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-7701527550430940/2393908914</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-7701527550430940/3731041310</string>
+    <string name="facebook_app_id">1367205146676388</string>
+    <string name="title_activity_story">StoryActivity</string>
+
+
+    <string name="share_on_fb">Share on Facebook</string>
+    <string name="share_on_gplus">Share on Google+</string>
+    <string name="share_on_social">Share on Social Media</string>
+    <string name="favorite">Favorite</string>
+</resources>

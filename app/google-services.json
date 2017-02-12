@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "692615871455",
+    "firebase_url": "https://kidsstorytime-281c7.firebaseio.com",
+    "project_id": "kidsstorytime-281c7",
+    "storage_bucket": "kidsstorytime-281c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692615871455:android:b778dc66d03b6420",
+        "android_client_info": {
+          "package_name": "com.beeblebroxlabs.kidsstorytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692615871455-2p19vgd0vl3n5du4vl17kpjuv2nb957f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAHoiDYV2TCNJTXJzQ03Ieh2-EKA9YouA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

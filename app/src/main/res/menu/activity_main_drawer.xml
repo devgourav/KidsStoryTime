@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Genres">
+        <menu>
+            <item android:id="@+id/favorite"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/favorite"/>
+        </menu>
+    </item>
+
+
+
+    <item android:title="@string/share_on_social">
+        <menu>
+            <item
+                android:id="@+id/share_to_fb"
+                android:icon="@drawable/com_facebook_button_icon_blue"
+                android:title="@string/share_on_fb" />
+           <!-- <item
+                android:id="@+id/share_to_twitter"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share to Twitter" />-->
+            <item
+                android:id="@+id/share_to_google"
+                android:icon="@drawable/ic_plusone_standard_off_client"
+                android:title="@string/share_on_gplus" />
+        </menu>
+    </item>
+
+</menu>
